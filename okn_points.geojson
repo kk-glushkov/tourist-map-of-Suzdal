@@ -1,0 +1,33 @@
+{
+"type": "FeatureCollection",
+"name": "okn_points",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32437" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "name": "Собор Рождества Пресвятой Богородицы" }, "geometry": { "type": "Point", "coordinates": [ 589000.227973177679814, 6253390.8268519686535 ] } },
+{ "type": "Feature", "properties": { "fid": 2, "name": "Музей Суздальского кремля" }, "geometry": { "type": "Point", "coordinates": [ 588972.839195394073613, 6253265.303566756658256 ] } },
+{ "type": "Feature", "properties": { "fid": 3, "name": "Старый оборонительный вал" }, "geometry": { "type": "Point", "coordinates": [ 589184.366116143064573, 6253575.925558922812343 ] } },
+{ "type": "Feature", "properties": { "fid": 4, "name": "Пожарная каланча" }, "geometry": { "type": "Point", "coordinates": [ 589184.426635989453644, 6253464.426301329396665 ] } },
+{ "type": "Feature", "properties": { "fid": 5, "name": "Успенская церковь " }, "geometry": { "type": "Point", "coordinates": [ 589175.521438495256007, 6253535.185662004165351 ] } },
+{ "type": "Feature", "properties": { "fid": 6, "name": "Пятницкая церковь" }, "geometry": { "type": "Point", "coordinates": [ 589231.419610219658352, 6253637.835905149579048 ] } },
+{ "type": "Feature", "properties": { "fid": 7, "name": "Входо-Иерусалимская церковь" }, "geometry": { "type": "Point", "coordinates": [ 589241.622775811469182, 6253663.576086800545454 ] } },
+{ "type": "Feature", "properties": { "fid": 8, "name": "Торговые ряды" }, "geometry": { "type": "Point", "coordinates": [ 589300.036096060182899, 6253762.398614138364792 ] } },
+{ "type": "Feature", "properties": { "fid": 9, "name": "Воскресенская церковь" }, "geometry": { "type": "Point", "coordinates": [ 589359.67612977407407, 6253744.72827894706279 ] } },
+{ "type": "Feature", "properties": { "fid": 10, "name": "Казанская церковь" }, "geometry": { "type": "Point", "coordinates": [ 589359.37619562225882, 6253772.381135672330856 ] } },
+{ "type": "Feature", "properties": { "fid": 11, "name": "Храм Константина Царя" }, "geometry": { "type": "Point", "coordinates": [ 589455.611822375562042, 6253883.258366246707737 ] } },
+{ "type": "Feature", "properties": { "fid": 12, "name": "Скорбященская церковь" }, "geometry": { "type": "Point", "coordinates": [ 589477.908999673672952, 6253922.786291433498263 ] } },
+{ "type": "Feature", "properties": { "fid": 13, "name": "Кресто-Никольская церковь" }, "geometry": { "type": "Point", "coordinates": [ 589302.53256906720344, 6253902.353331788443029 ] } },
+{ "type": "Feature", "properties": { "fid": 14, "name": "Дом Бальзаминова" }, "geometry": { "type": "Point", "coordinates": [ 589236.662593134329654, 6254054.750051283277571 ] } },
+{ "type": "Feature", "properties": { "fid": 15, "name": "Антипьевская церковь" }, "geometry": { "type": "Point", "coordinates": [ 589274.049084532889538, 6254055.053087667562068 ] } },
+{ "type": "Feature", "properties": { "fid": 16, "name": "Лазаревская церковь" }, "geometry": { "type": "Point", "coordinates": [ 589274.144311842275783, 6254071.363286118023098 ] } },
+{ "type": "Feature", "properties": { "fid": 17, "name": "Ризоположенский монастырь " }, "geometry": { "type": "Point", "coordinates": [ 589166.610402774764225, 6254281.345492418855429 ] } },
+{ "type": "Feature", "properties": { "fid": 18, "name": "Александровский монастырь " }, "geometry": { "type": "Point", "coordinates": [ 588848.04787468072027, 6254575.800907677039504 ] } },
+{ "type": "Feature", "properties": { "fid": 19, "name": "Дворец Борщевского" }, "geometry": { "type": "Point", "coordinates": [ 588902.166680784197524, 6254845.003246863372624 ] } },
+{ "type": "Feature", "properties": { "fid": 20, "name": "Посадский дом" }, "geometry": { "type": "Point", "coordinates": [ 589022.868857807363383, 6255079.978207690641284 ] } },
+{ "type": "Feature", "properties": { "fid": 21, "name": "Смоленская церковь" }, "geometry": { "type": "Point", "coordinates": [ 589014.935606164275669, 6255110.07920581381768 ] } },
+{ "type": "Feature", "properties": { "fid": 22, "name": "Сквер имени Пожарского" }, "geometry": { "type": "Point", "coordinates": [ 588943.530824448913336, 6255064.620923732407391 ] } },
+{ "type": "Feature", "properties": { "fid": 23, "name": "Спасо-Ефимиев монастырь " }, "geometry": { "type": "Point", "coordinates": [ 588783.751047585858032, 6255229.754225658252835 ] } },
+{ "type": "Feature", "properties": { "fid": 24, "name": "Петропавловская церковь" }, "geometry": { "type": "Point", "coordinates": [ 588563.69930647185538, 6254636.568825834430754 ] } },
+{ "type": "Feature", "properties": { "fid": 25, "name": "Покровский монастырь" }, "geometry": { "type": "Point", "coordinates": [ 588624.521495752036572, 6254790.474704511463642 ] } },
+{ "type": "Feature", "properties": { "fid": 26, "name": "Суздальский кремль" }, "geometry": { "type": "Point", "coordinates": [ 588930.794952816446312, 6253377.128149017691612 ] } }
+]
+}

@@ -1,0 +1,33 @@
+{
+"type": "FeatureCollection",
+"name": "cafe",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32437" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "name": "Все в сад", "price": "1 000 руб" }, "geometry": { "type": "Point", "coordinates": [ 589323.500419021467678, 6253673.056337487883866 ] } },
+{ "type": "Feature", "properties": { "fid": 2, "name": "Граф Суворов", "price": "800 руб" }, "geometry": { "type": "Point", "coordinates": [ 589284.687103631789796, 6253717.607273413799703 ] } },
+{ "type": "Feature", "properties": { "fid": 3, "name": "Суздальская дегустация", "price": "800 руб" }, "geometry": { "type": "Point", "coordinates": [ 589281.649539818638004, 6253785.783705662935972 ] } },
+{ "type": "Feature", "properties": { "fid": 4, "name": "Джаспер и Песчаник", "price": "800 руб" }, "geometry": { "type": "Point", "coordinates": [ 589319.28158039203845, 6253721.994865588843822 ] } },
+{ "type": "Feature", "properties": { "fid": 5, "name": "Фрося&варенье", "price": "1 000 руб" }, "geometry": { "type": "Point", "coordinates": [ 589247.223816604004242, 6253595.767213799059391 ] } },
+{ "type": "Feature", "properties": { "fid": 6, "name": "Русская ресторация", "price": "1 000 руб" }, "geometry": { "type": "Point", "coordinates": [ 589085.557920329738408, 6253490.296248067170382 ] } },
+{ "type": "Feature", "properties": { "fid": 7, "name": "1-я огурепчная лавка", "price": "1 000 руб" }, "geometry": { "type": "Point", "coordinates": [ 589104.289563843747601, 6253409.463299928233027 ] } },
+{ "type": "Feature", "properties": { "fid": 8, "name": "Сокольнический", "price": "1 500 руб" }, "geometry": { "type": "Point", "coordinates": [ 589405.177134884172119, 6253627.661633835174143 ] } },
+{ "type": "Feature", "properties": { "fid": 9, "name": "Харчевня", "price": "800 руб" }, "geometry": { "type": "Point", "coordinates": [ 589297.84988015529234, 6254035.201445422135293 ] } },
+{ "type": "Feature", "properties": { "fid": 10, "name": "Пироги", "price": "250 руб" }, "geometry": { "type": "Point", "coordinates": [ 589354.719824878149666, 6253966.349998992867768 ] } },
+{ "type": "Feature", "properties": { "fid": 11, "name": "Старый Суздаль", "price": "500 руб" }, "geometry": { "type": "Point", "coordinates": [ 589344.932119258213788, 6253994.025580400601029 ] } },
+{ "type": "Feature", "properties": { "fid": 12, "name": "Дом русского чаепития ", "price": "500 руб" }, "geometry": { "type": "Point", "coordinates": [ 589253.973958410904743, 6254089.371333420276642 ] } },
+{ "type": "Feature", "properties": { "fid": 13, "name": "Ландыш", "price": "350 руб" }, "geometry": { "type": "Point", "coordinates": [ 589331.600589189794846, 6254163.11663265991956 ] } },
+{ "type": "Feature", "properties": { "fid": 14, "name": "Суздальская трапеза", "price": "350 руб" }, "geometry": { "type": "Point", "coordinates": [ 589138.546533513814211, 6254202.267455141060054 ] } },
+{ "type": "Feature", "properties": { "fid": 15, "name": "Квасная изба", "price": "700 руб" }, "geometry": { "type": "Point", "coordinates": [ 588628.573320006136782, 6253496.877636321820319 ] } },
+{ "type": "Feature", "properties": { "fid": 16, "name": "Ферма", "price": "800 руб" }, "geometry": { "type": "Point", "coordinates": [ 588703.837401152472012, 6253140.807656010612845 ] } },
+{ "type": "Feature", "properties": { "fid": 17, "name": "Русское подворье", "price": "1 500 руб" }, "geometry": { "type": "Point", "coordinates": [ 588852.678027993650176, 6252877.889632634818554 ] } },
+{ "type": "Feature", "properties": { "fid": 18, "name": "Театральный", "price": "1 300 руб" }, "geometry": { "type": "Point", "coordinates": [ 589230.348462086869404, 6254970.433592756278813 ] } },
+{ "type": "Feature", "properties": { "fid": 19, "name": "На яру", "price": "1 000 руб" }, "geometry": { "type": "Point", "coordinates": [ 588830.740067121223547, 6255045.022659721784294 ] } },
+{ "type": "Feature", "properties": { "fid": 20, "name": "ГрафинЪ", "price": "1 000 руб" }, "geometry": { "type": "Point", "coordinates": [ 589024.131629887619056, 6255063.248042600229383 ] } },
+{ "type": "Feature", "properties": { "fid": 21, "name": "У Прокопа", "price": "300 руб" }, "geometry": { "type": "Point", "coordinates": [ 588498.295583133236505, 6254713.590697002597153 ] } },
+{ "type": "Feature", "properties": { "fid": 22, "name": "Балаган", "price": "1 000 руб" }, "geometry": { "type": "Point", "coordinates": [ 588398.055977301555686, 6254766.57931018806994 ] } },
+{ "type": "Feature", "properties": { "fid": 23, "name": "LimpoMpo", "price": "700 руб" }, "geometry": { "type": "Point", "coordinates": [ 588351.817505924613215, 6254716.965767906978726 ] } },
+{ "type": "Feature", "properties": { "fid": 24, "name": "У Любаши", "price": "600 руб" }, "geometry": { "type": "Point", "coordinates": [ 587910.020724665839225, 6255285.665215133689344 ] } },
+{ "type": "Feature", "properties": { "fid": 25, "name": "Трапезная", "price": "500 руб" }, "geometry": { "type": "Point", "coordinates": [ 588433.831728877616115, 6255472.644143184646964 ] } },
+{ "type": "Feature", "properties": { "fid": 26, "name": "Лепота", "price": "2 500 руб" }, "geometry": { "type": "Point", "coordinates": [ 589161.328262111637741, 6253001.417227696627378 ] } }
+]
+}
